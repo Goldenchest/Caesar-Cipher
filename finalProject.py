@@ -5,7 +5,6 @@ import time
 from Tkinter import *
 
 fileName = "words.txt"
-#fileName = "C:\\Users\\Gary\\Dropbox\\CarnegieMellon\\CS112\\Labs\\finalProject\words.txt"
 
 class Cipher(object):
 	# load words from text file
