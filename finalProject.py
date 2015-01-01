@@ -1,5 +1,3 @@
-#!/usr/bin/python
-#gchien
 # CIPHER TYPING GAME
 import string
 import random
